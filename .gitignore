@@ -1,0 +1,7 @@
+# .gitignore
+.DS_STORE
+*.swp
+*.tmp
+
+# Ignore the js directory
+js/
