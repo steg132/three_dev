@@ -20,7 +20,7 @@ scene.add cube
 camera.position.z = 5
 
 # Define Render Function
-render = ()->
+render = ->
 	requestAnimationFrame render
 	
 	# Rotate the cube
