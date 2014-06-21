@@ -1,0 +1,10 @@
+/* index.css */
+/* This file sets the default css for demos in this project */
+
+body {
+	margin: 0px;
+}
+canvas { 
+	width: 100%; 
+	height: 100% 
+}
